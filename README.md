@@ -1,2 +1,3 @@
-# clock
-just another repository
+# 微信小程序-时钟
+##### 演示：
+
